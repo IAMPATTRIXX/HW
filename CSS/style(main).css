@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
 }
 h1 {
     font-family: 'Times New Roman', Times, serif;
@@ -7,10 +7,11 @@ h1 {
     font-size: 70px;
 }
 h3 { 
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        color: 	#000000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: 	#000000;
 }
-.br{
-    border:2px solid #000000;
+td{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: 	#000000;
 }
 
